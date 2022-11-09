@@ -21,9 +21,6 @@ This dataset contains 2126 records of features extracted from Cardiotocogram exa
 - Suspect 
 - Pathological
 
-## Objective:
-
-By using classification model and Model tuning to classify fetal health inorder to prevent child and maternal moratality to get good accuracy.
 
 ## Features:
 - 'baseline value':- FHR baseline (beats per minute)
@@ -51,6 +48,11 @@ By using classification model and Model tuning to classify fetal health inorder 
 ## Target:
 
 - 'fetal_health':- Tagged as 1 (Normal), 2 (Suspect) and 3 (Pathological)
+
+
+## Objective:
+
+By using classification model and Model tuning to classify fetal health inorder to prevent child and maternal moratality to get good accuracy.
 
 ## Dataset Link:
 
